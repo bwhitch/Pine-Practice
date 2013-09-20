@@ -1,0 +1,5 @@
+puts 'You\'re swell!'
+puts 'backslash at end of string: \\'
+puts 'up\\down'
+puts 'up\down'
+puts 'up\\\down'
